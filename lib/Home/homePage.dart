@@ -507,6 +507,15 @@ class _HomePageState extends State<HomePage> {
                       fontWeight: FontWeight.bold,
                     )),
               ),
+              Padding(
+                padding: const EdgeInsets.only(top: 40, bottom: 3),
+                child: Text("test 5",
+                    style: TextStyle(
+                      fontSize: 23,
+                      fontFamily: 'NotoSansLaoUI-Regular',
+                      fontWeight: FontWeight.bold,
+                    )),
+              ),
               //https://github.com/phonepaseuthLINTHIPPAVONG/LTCMainApps.git
               Material(
                 child: Container(
