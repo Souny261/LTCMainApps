@@ -500,14 +500,14 @@ class _HomePageState extends State<HomePage> {
             children: <Widget>[
               Padding(
                 padding: const EdgeInsets.only(top: 40, bottom: 3),
-                child: Text("test 4",
+                child: Text("test 5",
                     style: TextStyle(
                       fontSize: 23,
                       fontFamily: 'NotoSansLaoUI-Regular',
                       fontWeight: FontWeight.bold,
                     )),
               ),
-     //https://github.com/phonepaseuthLINTHIPPAVONG/LTCMainApps.git         
+              //https://github.com/phonepaseuthLINTHIPPAVONG/LTCMainApps.git
               Material(
                 child: Container(
                   height: MediaQuery.of(context).size.height / 10.2,
